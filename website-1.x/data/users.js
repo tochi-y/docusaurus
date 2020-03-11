@@ -463,6 +463,13 @@ module.exports = [
     pinned: false,
   },
   {
+    caption: 'Personium',
+    image: '/img/users/personium.svg',
+    infoLink: 'https://personium.io/',
+    fbOpenSource: false,
+    pinned: false,
+  },
+  {
     caption: 'Plus (ThinkSNS+)',
     image: '/img/users/plus.png',
     infoLink: 'https://slimkit.github.io',
